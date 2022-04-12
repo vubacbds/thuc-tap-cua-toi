@@ -13,7 +13,7 @@ function Post() {
         console.log(idvao)
         try {
           
-          const newData = [...dataSource];
+          const newData = [...dataSourceTotal];
           //findIndex để tìm vị trí của hàng đang sửa
           const index = newData.findIndex((item) => idvao === item.id);
     

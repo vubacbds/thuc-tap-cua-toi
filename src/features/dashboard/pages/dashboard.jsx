@@ -32,7 +32,7 @@ function AdminPage() {
                   </span>
                   &ensp; &nbsp;
                   <span className="avatar-item">
-                    <Popover content={<span>Có {dataSource.length} tin đăng mới đang chờ duyệt</span>} title="Thông báo" trigger="click">
+                    <Popover content={<Link to="quan-ly-tin-dang">Có {dataSource.length} tin đăng mới đang chờ duyệt</Link>} title="Thông báo" trigger="click">
                       <Badge count={dataSource.length}>
                           <a><Avatar shape="square" icon={<BellOutlined />} style={{background: '#0f4d92', fontSize: 24}}/></a>
                       </Badge>

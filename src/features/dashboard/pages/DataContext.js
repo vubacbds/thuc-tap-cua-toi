@@ -196,7 +196,7 @@ const dataPost = [
         img2: 'https://xaynhatro.net/wp-content/uploads/2018/06/f70f05c965f280acd9e3.jpg',
         img3: 'https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-11.jpg',
         img4: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpKimrec6en61zfIC1FOLvdpSRAf5dbYgqQ&usqp=CAU',
-        trangthai: 1
+        trangthai: 0
       },
       {
         id: 15,
@@ -210,7 +210,7 @@ const dataPost = [
         img2: 'https://xaynhatro.net/wp-content/uploads/2018/06/f70f05c965f280acd9e3.jpg',
         img3: 'https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-11.jpg',
         img4: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpKimrec6en61zfIC1FOLvdpSRAf5dbYgqQ&usqp=CAU',
-        trangthai: 1
+        trangthai: 0
       },
       {
         id: 16,
@@ -252,7 +252,7 @@ const dataPost = [
         img2: 'https://xaynhatro.net/wp-content/uploads/2018/06/f70f05c965f280acd9e3.jpg',
         img3: 'https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-11.jpg',
         img4: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpKimrec6en61zfIC1FOLvdpSRAf5dbYgqQ&usqp=CAU',
-        trangthai: 1
+        trangthai: 0
       },
       {
         id: 19,
@@ -308,7 +308,7 @@ const dataPost = [
         img2: 'https://xaynhatro.net/wp-content/uploads/2018/06/f70f05c965f280acd9e3.jpg',
         img3: 'https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-11.jpg',
         img4: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpKimrec6en61zfIC1FOLvdpSRAf5dbYgqQ&usqp=CAU',
-        trangthai: 1
+        trangthai: 0
       },
       {
         id: 23,
