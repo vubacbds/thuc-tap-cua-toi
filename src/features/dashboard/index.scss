@@ -1,0 +1,40 @@
+.logo {
+  text-align: left;
+  font-weight: bold;
+  color: #69e1ff;
+  font-size: 40px;
+  float: left; 
+  flex-grow: 1;
+  margin-left: 5px;
+}
+
+// .site-layout .site-layout-background {
+//   background: #fff;
+// }
+
+// #components-layout-demo-top-side-2 .logo {
+//   float: left;
+//   width: 120px;
+//   height: 31px;
+//   margin: 16px 24px 16px 0;
+//   background: #f59dcd4d;
+// }
+
+// .logo {
+//   float: right;
+//   margin: 16px 0 16px 24px;
+// }
+
+.site-layout-background {
+  background: #fff;
+}
+
+.a2,.a3{
+  border-right: #c7077d 3px solid;
+}
+
+.editable-row .ant-form-item-explain {
+  position: absolute;
+  top: 100%;
+  font-size: 12px;
+}

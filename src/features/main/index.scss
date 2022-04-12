@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.head{
+    background-color: #0f4d92;
+    height: 100px;
+}
+/*header*/
+
+.left_head{
+
+    height: 119px;
+    width: 700px;
+}
+div  li{
+    position: relative;
+    bottom: 90px;
+    left: 150px;
+    font-size: 20px;
+    color: white;
+}
+li{
+    font-family: "Times New Roman";
+    float: left;
+    display: inline-block; /*Thẻ li trình bày theo hàng ngang*/
+    padding: 20px;
+  }
+.right_head{
+    
+    width: 400px;
+    height: 40px;
+    float: right;
+    position: relative;
+    bottom: 170px;
+    left: 480px;
+    padding: 5px;
+}
+.right_head button{
+    float: left;
+    position: relative;
+    left: 40px;
+}
+.right_head li{
+    padding-left: 10;
+    position: relative;
+    left: 40px;
+    bottom: 40px;
+}
+li:hover{
+    color: rgb(55, 255, 131);
+}
+
+.content{
+    background-color: rgb(127, 161, 255);
+    height: 2000px;
+}
+.foot{
+    background-color: #0f4d92;
+    height: 300px;
+    padding: 20px;
+    display: inline-block
+}
+.foot1{
+    background-color: #0f4d92;
+    width: 400px;
+    float: left;
+    position: relative;
+    right: 20px;
+    bottom: 20px;
+    height: 120px;
+    font-size: 20px;
+}
+p{
+    padding-left: 10px;
+    font-family:"Times New Roman";
+    color: aliceblue;
+}
+
+.foot2{
+    background-color: #0f4d92;
+    width: 400px;
+    float: left;
+    position: relative;
+    right: 20px;
+    bottom: 20px;
+    height: 120px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.foot3{
+    background-color: #0f4d92;
+    width: 400px;
+    float: left;
+    position: relative;
+    right: 20px;
+    bottom: 20px;
+    height: 120px;
+    text-align: center;
+    
+}
+
+.foot4{
+    position: relative;
+    top: 190px;
+    height: 20px;
+}
+.foot4 h3 
+{
+    position: relative;
+    bottom: 80px;
+   text-align: center;
+   color: aliceblue;
+}
+
